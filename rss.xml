@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[여름산책]]></title><description><![CDATA[Develop]]></description><link>https://juhyung990122.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 Feb 2021 08:08:56 GMT</lastBuildDate><item><title><![CDATA[[SpringBoard] Spring board 개발일지1]]></title><description><![CDATA[🌟 Spring board 개발일지1 🎯깃허브 링크 https://github.com/Juhyung990122/Spring_CRUD 🎯진행내역 JPA를 활용하여 user와 board(post) 관계정의 🎯에러로그 error executing…]]></description><link>https://juhyung990122.github.io/Project_log/2021-02-03TIL/</link><guid isPermaLink="false">https://juhyung990122.github.io/Project_log/2021-02-03TIL/</guid><pubDate>Wed, 03 Feb 2021 20:32:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-spring-board-개발일지1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-spring-board-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%801&quot; aria-label=&quot; spring board 개발일지1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌟 Spring board 개발일지1&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[여름산책]]></title><description><![CDATA[Develop]]></description><link>https://juhyung990122.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 Feb 2021 08:22:59 GMT</lastBuildDate><item><title><![CDATA[[SpringBoard] Spring board 개발일지1]]></title><description><![CDATA[🌟 Spring board 개발일지1 🎯깃허브 링크 https://github.com/Juhyung990122/Spring_CRUD 🎯진행내역 JPA를 활용하여 user와 board(post) 관계정의 🎯에러로그 error executing…]]></description><link>https://juhyung990122.github.io/Project_log/2021-02-03TIL/</link><guid isPermaLink="false">https://juhyung990122.github.io/Project_log/2021-02-03TIL/</guid><pubDate>Wed, 03 Feb 2021 20:32:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-spring-board-개발일지1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-spring-board-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%801&quot; aria-label=&quot; spring board 개발일지1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌟 Spring board 개발일지1&lt;/h2&gt;
 &lt;h3 id=&quot;깃허브-링크&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A7%81%ED%81%AC&quot; aria-label=&quot;깃허브 링크 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯깃허브 링크&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/Juhyung990122/Spring_CRUD&quot;&gt;https://github.com/Juhyung990122/Spring_CRUD&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;진행내역&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A7%84%ED%96%89%EB%82%B4%EC%97%AD&quot; aria-label=&quot;진행내역 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯진행내역&lt;/h3&gt;
@@ -610,58 +610,56 @@ to be returned from the view, but received a ‘&amp;#x3C;class ‘NoneType’&g
 &lt;strong&gt;문제:&lt;/strong&gt; serializer의 매개변수중 many = True 를 설정할 시 ListSerializer형태로 바뀌게 되는데, rank&lt;/em&gt;save는 일반 ModelSerailizer 내에 선언되어 있어서 발생하는 에러입니다.&lt;/li&gt;
 &lt;/ol&gt;</content:encoded></item><item><title><![CDATA[[Django] Django에 MYSQL 연동하기]]></title><description><![CDATA[🌟 Django에 MYSQL 연동하기 🎯 sqlite3 vs  Postgres vs MYSQL 1.sqlite…]]></description><link>https://juhyung990122.github.io/Django/2020-09-28-TIL/</link><guid isPermaLink="false">https://juhyung990122.github.io/Django/2020-09-28-TIL/</guid><pubDate>Mon, 28 Sep 2020 23:33:03 GMT</pubDate><content:encoded>&lt;h2 id=&quot;-django에-mysql-연동하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-django%EC%97%90-mysql-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0&quot; aria-label=&quot; django에 mysql 연동하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌟 Django에 MYSQL 연동하기&lt;/h2&gt;
 &lt;h3 id=&quot;-sqlite3-vs--postgres-vs-mysql&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-sqlite3-vs--postgres-vs-mysql&quot; aria-label=&quot; sqlite3 vs  postgres vs mysql permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯 sqlite3 vs  Postgres vs MYSQL&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1.sqlite3&lt;/strong&gt;
-간단한 테스트용 디비용도로 사용하기 좋은 데이터베이스 입니다.
-장점 : 단순하고 간편합니다.
-단점 : 단일쓰기 작업만 지원하므로 동시에 여러 클라이언트가
-데이터베이스에 접근해야할때 제한적이고 구조가 단순한 만큼 기능을 확장하기 어렵습니다. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Postgres&lt;/strong&gt;
-기본적으로 성능이 좋은 데이터베이스입니다.
-장점 : 안정되어있고 데이터의 무결성을 보장합니다.
-확장성이 좋아 복잡한 기능구현이 가능합니다.
-단점 : 읽기기능이 많은 서비스일 경우 오히려 성능이 떨어질 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. MYSQL&lt;/strong&gt;
-가장 보편적이고 무난한 데이터베이스입니다.
-장점 : 간단하고 보편적입니다. 이용자가 많은만큼 지원이 많고 확장성이 좋습니다.
-단점 : 새로 개발된 기능의 경우 안정성이 부족합니다.&lt;/p&gt;
-&lt;h3 id=&quot;-mysql-세팅하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-mysql-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0&quot; aria-label=&quot; mysql 세팅하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯 MYSQL 세팅하기&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. Homebrew 설치하기&lt;/strong&gt;
-MacOS 전용 패키지 관리자인 Homebrew를 설치합니다.
-&lt;a href=&quot;https://brew.sh/index_ko%EB%A1%9C&quot;&gt;https://brew.sh/index_ko로&lt;/a&gt; 이동하여 나와있는 코드를 복사한 뒤
-터미널을 켜서 붙여넣어줍니다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. mysql 패키지 설치하기&lt;/strong&gt;
-Homebrew 설치가 완료되면 다음의 명령어들을 입력해줍니다.
-&lt;code class=&quot;language-text&quot;&gt;# mysql
-    brew install mysql 
-    # mysql-client = 커맨드라인에서 mysql 서버 접속
-    brew install mysql-client 
-    # mysql workbench
-    brew install mysqlworkbench 설치&lt;/code&gt;
-세개가 다 설치된다면 터미널에 mysql -uroot를 입력해서
+&lt;p&gt;&lt;strong&gt;1.sqlite3&lt;/strong&gt;&lt;br&gt;
+간단한 테스트용 디비용도로 사용하기 좋은 데이터베이스 입니다.&lt;br&gt;
+장점 : 단순하고 간편합니다.&lt;br&gt;
+단점 : 단일쓰기 작업만 지원하므로 동시에 여러 클라이언트가 &lt;br&gt;
+데이터베이스에 접근해야할때 제한적이고 구조가 단순한 만큼 기능을 확장하기 어렵습니다. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Postgres&lt;/strong&gt; &lt;br&gt;
+기본적으로 성능이 좋은 데이터베이스입니다.&lt;br&gt;
+장점 : 안정되어있고 데이터의 무결성을 보장합니다. &lt;br&gt;
+확장성이 좋아 복잡한 기능구현이 가능합니다.&lt;br&gt;
+단점 : 읽기기능이 많은 서비스일 경우 오히려 성능이 떨어질 수 있습니다.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. MYSQL&lt;/strong&gt;&lt;br&gt;
+가장 보편적이고 무난한 데이터베이스입니다.&lt;br&gt;
+장점 : 간단하고 보편적입니다. 이용자가 많은만큼 지원이 많고 확장성이 좋습니다. &lt;br&gt;
+단점 : 새로 개발된 기능의 경우 안정성이 부족합니다.&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-mysql-세팅하기br&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-mysql-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0br&quot; aria-label=&quot; mysql 세팅하기br permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯 MYSQL 세팅하기&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. Homebrew 설치하기&lt;/strong&gt;&lt;br&gt;
+MacOS 전용 패키지 관리자인 Homebrew를 설치합니다.&lt;br&gt;
+&lt;a href=&quot;https://brew.sh/index_ko%EB%A1%9C&quot;&gt;https://brew.sh/index_ko로&lt;/a&gt; 이동하여 나와있는 코드를 복사한 뒤&lt;br&gt;
+터미널을 켜서 붙여넣어줍니다.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. mysql 패키지 설치하기&lt;/strong&gt;&lt;br&gt;
+Homebrew 설치가 완료되면 다음의 명령어들을 입력해줍니다.&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# mysql
+brew install mysql 
+# mysql-client = 커맨드라인에서 mysql 서버 접속
+brew install mysql-client 
+# mysql workbench
+brew install mysqlworkbench 설치&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;세개가 다 설치된다면 터미널에 mysql -uroot를 입력해서
 mysql에 잘 접속되는지 확인해줍니다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. mysql 설정하기&lt;/strong&gt;
-&lt;code class=&quot;language-text&quot;&gt;mysql_secure_installation&lt;/code&gt;을 입력하여 비밀번호를 설정해줍니다.
-이때 설정하는 비밀번호는 root의 비밀번호가 됩니다.
-옵션들을 상황에 맞춰서 y와 n로 설정해 준 뒤에,
-&lt;code class=&quot;language-text&quot;&gt;mysql -uroot -p방금 설정한 비밀번호&lt;/code&gt;를 터미널에 입력하면
-잘 접속이 되는걸 확인할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. mysql 내에 DB 생성하기&lt;/strong&gt;
-mysql 세팅이 다 끝났으면 mysql로 DB를 생성해줍니다.
-생성명령어는 다음과 같으며, 테이블 이름 뒤에 있는 인자는
-모든 문자형태를 MYSQL에 저장할 수 있게하는 명령어입니다.&lt;br&gt;
-&lt;code class=&quot;language-text&quot;&gt;create database 테이블이름 character set utf8mb4 collate utf8mb4_general_ci;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. mysql 설정하기&lt;/strong&gt;&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;mysql_secure_installation&lt;/code&gt;을 입력하여 비밀번호를 설정해줍니다.&lt;br&gt;
+이때 설정하는 비밀번호는 root의 비밀번호가 됩니다.&lt;br&gt;
+옵션들을 상황에 맞춰서 y와 n로 설정해 준 뒤에,&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;mysql -uroot -p방금 설정한 비밀번호&lt;/code&gt;를 터미널에 입력하면&lt;br&gt;
+잘 접속이 되는걸 확인할 수 있습니다.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. mysql 내에 DB 생성하기&lt;/strong&gt;&lt;br&gt;
+mysql 세팅이 다 끝났으면 mysql로 DB를 생성해줍니다.&lt;br&gt;
+생성명령어는 다음과 같으며, 테이블 이름 뒤에 있는 인자는 &lt;br&gt;
+모든 문자형태를 MYSQL에 저장할 수 있게하는 명령어입니다. &lt;br&gt;   &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;create database 테이블이름 character set utf8mb4 collate utf8mb4_general_ci;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;-django-에-적용하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-django-%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0&quot; aria-label=&quot; django 에 적용하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯 Django 에 적용하기&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;1. mysqlclient를 설치&lt;/strong&gt;&lt;br&gt;
-장고에서 사용할 mysqlclient를 설치해줍니다.&lt;br&gt;
-&lt;code class=&quot;language-text&quot;&gt;bash
-        pip install mysqlclient&lt;/code&gt;&lt;/p&gt;
+장고에서 사용할 mysqlclient를 설치해줍니다.  &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;pip install mysqlclient&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;2. Settings.py 수정하기&lt;/strong&gt;&lt;br&gt;
 그 다음 settings.py의 DATABASES를 찾아가보면
 장고의 기본 내장 데이터베이스인 sqlite3으로 설정되어있는걸 확인하실 수 있습니다.
 이 설정을 방금 구성한 MYSQL로 바꿔주면 django에서 쓰는 DB가 바뀌게 됩니다.
 설정양식은 다음과 같습니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    ```python
-    DATABASES = {
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    DATABASES = {
         &amp;#39;default&amp;#39;: {
             &amp;#39;ENGINE&amp;#39;: &amp;#39;django.db.backends.mysql&amp;#39;,
             &amp;#39;NAME&amp;#39; : &amp;#39;테이블이름&amp;#39;,
@@ -670,24 +668,20 @@ mysql 세팅이 다 끝났으면 mysql로 DB를 생성해줍니다.
             &amp;#39;HOST&amp;#39; : &amp;#39;localhost&amp;#39;,
             &amp;#39;PORT&amp;#39; : &amp;#39;3306&amp;#39;,
         }
-    }
-    ```&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;3. DB정보 숨기기&lt;/strong&gt;
 이때 데이터베이스의 비밀번호와 같은 정보들은 유출되면 문제가 생기므로 숨겨주어야 합니다.
 이를 위해 프로젝트 내에 secret.json을 만들어주고
 위의 내용을 옮긴 뒤 secret.json은 .gitignore에 추가하여 레포지토리에 올라가지 않도록 설정합니다.
 그 다음 secret.json 내의 DB설정내용을 가져오기 위해서
-settings.py 에 다음 코드를 삽입해줍니다.
-&lt;code class=&quot;language-text&quot;&gt;python
-        import secret
-        DATABASES = secret[DATABASES]&lt;/code&gt;&lt;/p&gt;
+settings.py 에 다음 코드를 삽입해줍니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import secret
+DATABASES = secret[DATABASES]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;-db에-테이블-생성하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-db%EC%97%90-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot; db에 테이블 생성하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯 DB에 테이블 생성하기&lt;/h3&gt;
 &lt;p&gt;모든 설정을 마쳤으니 마지막으로 마이그레이션 해서 DB내에 테이블을 생성합니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;```bash
-python3 manage.py makemigrations 앱이름
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;python3 manage.py makemigrations 앱이름
 python3 manage.py migrate 앱이름
-python3 manage.py migrate 
-```&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+python3 manage.py migrate &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;참고 :
 &lt;a href=&quot;https://velog.io/@devmin/Django-MySQL-Connect&quot;&gt;https://velog.io/@devmin/Django-MySQL-Connect&lt;/a&gt;
 &lt;a href=&quot;https://myjamong.tistory.com/102&quot;&gt;https://myjamong.tistory.com/102&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Uniplogger] 유니플로거 개발일지1]]></title><description><![CDATA[🌟유니플로거 개발일지 - 1 🎯깃허브 링크 개인연습 : https://github.com/Juhyung990122/Yapp_temp
@@ -1830,7 +1824,7 @@ shell을 통해 .env 위치로 들어간 뒤, 가상환경을 활성화 하고
 &lt;a href=&quot;https://cjh5414.github.io/django-settings-separate/&quot;&gt;https://cjh5414.github.io/django-settings-separate/&lt;/a&gt;
 &lt;a href=&quot;https://wikidocs.net/6606#_5&quot;&gt;https://wikidocs.net/6606#_5&lt;/a&gt;
 &lt;a href=&quot;https://ehfgk78.github.io/2018/02/02/Django-Settings_Requirements/#heading-5-requirementstxt-%EB%B6%84%EB%A6%AC&quot;&gt;https://ehfgk78.github.io/2018/02/02/Django-Settings_Requirements/#heading-5-requirementstxt-%EB%B6%84%EB%A6%AC&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Review]2020 정보처리기사 3회 필기 후기]]></title><description><![CDATA[📚정보처리기사 후기 드디어끝!드디어 정보처리기사 시험이 지나갔습니다 WOW…]]></description><link>https://juhyung990122.github.io/Review_log/review-jcg 복사본/</link><guid isPermaLink="false">https://juhyung990122.github.io/Review_log/review-jcg 복사본/</guid><pubDate>Sat, 22 Aug 2020 23:56:07 GMT</pubDate><content:encoded>&lt;h2 id=&quot;정보처리기사-후기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%9B%84%EA%B8%B0&quot; aria-label=&quot;정보처리기사 후기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📚정보처리기사 후기&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://media0.giphy.com/media/l4q8cJzGdR9J8w3hS/giphy.gif&quot; alt=&quot;드디어끝!&quot;&gt;드디어 정보처리기사 시험이 지나갔습니다 WOW🥳 가채점결과 무난하게 합격선이네요.
+&lt;p&gt;&lt;img src=&quot;https://media0.giphy.com/media/l4q8cJzGdR9J8w3hS/giphy.gif&quot; alt=&quot;드디어끝!&quot;&gt;&lt;br&gt;드디어 정보처리기사 시험이 지나갔습니다 WOW🥳 가채점결과 무난하게 합격선이네요.
 다소 신나있는 상태라 제가 어떤 말을 하고있는지도 잘모르겠지만
 ‘정보처리기사 후기’ 를 구글창에 검색하신 여러분을 위해 후다닥 후기를 쪄보겠습니다.
 앞으로 정보처리기사를 보실분들에게는 유용한 간접체험이,
@@ -1839,7 +1833,7 @@ shell을 통해 .env 위치로 들어간 뒤, 가상환경을 활성화 하고
 &lt;p&gt;계기는 별거없습니다. 애시당초 제가 무언가 시작할때 큰 이유를 가지고 시작하는 스타일이 아니여서요.
 처음엔 막학기가 다가오는 졸업예정자로서 자격증이 없는게 마음에 걸렸습니다.
 주변사람들은 토익을 따던데 전 외국어엔 영 소질이 없을 뿐더러 학원비고 뭐고 당장 교재 살 돈도 없어서요.
-&lt;img src=&quot;https://pbs.twimg.com/media/C8tku1zVYAAGbQ_.jpg&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;아무리 생각해도 제 상황에 토익은 영 가성비가 좋지 않겠다는 생각이 머릿속에 맴돌더라고요.
+&lt;img src=&quot;https://pbs.twimg.com/media/C8tku1zVYAAGbQ_.jpg&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;&lt;br&gt;아무리 생각해도 제 상황에 토익은 영 가성비가 좋지 않겠다는 생각이 머릿속에 맴돌더라고요.
 토익말고 다른건 없나 고민하던 중 이름만 들어봤던 정보처리기사가 떠올랐습니다.
 찾아보니 독학으로도 충분히 딸 수 있다는 후기들과 나름 기본으로 가지는 자격증이라는 후기들이 꽤 많았는데,
 무엇보다 DB와 운영체제 네트워크 개념을 크게 훑을 수 있다는 점이 매력으로 다가오더라고요.
@@ -1847,14 +1841,14 @@ shell을 통해 .env 위치로 들어간 뒤, 가상환경을 활성화 하고
 &lt;h3 id=&quot;공부기간과-방법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B3%B5%EB%B6%80%EA%B8%B0%EA%B0%84%EA%B3%BC-%EB%B0%A9%EB%B2%95&quot; aria-label=&quot;공부기간과 방법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📘공부기간과 방법&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;❗들어가기에 앞서 개인차이가 있을 수 있다는 말씀을 드리고싶습니다.&lt;/strong&gt;
 &lt;strong&gt;❗팁도그렇고 공부방법도 그렇고 각자 맞는 방법이 있으니 적당히 참고만 해주세요~!&lt;/strong&gt;
-&lt;img src=&quot;https://file3.instiz.net/data/file3/2019/10/19/8/8/3/88332ac7dd544ac2d8a5be00cf272ff7.jpg&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;공부기간은 일주일이면 적당한 듯 합니다.(컴공 4학년 기준)
+&lt;img src=&quot;https://file3.instiz.net/data/file3/2019/10/19/8/8/3/88332ac7dd544ac2d8a5be00cf272ff7.jpg&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;&lt;br&gt;공부기간은 일주일이면 적당한 듯 합니다.(컴공 4학년 기준)
 사실 그전에도 조금씩 하긴했는데 너무 휘발성으로 공부했어서 별 소용없는 것 같아요.
 일주일간 공부할때는 과목 전체 공통적으로 다음의 과정을 거쳤습니다.
 도라에몽의 암기빵마냥 신박하고 특별한 방법은 아니지만 멋지게 한번 써보자면,&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;1. 오늘 공부할 과목의 요약본을 꼼꼼히 읽습니다.(암기X)&lt;/code&gt;
-&lt;code class=&quot;language-text&quot;&gt;2. 2020년도 기출문제를 풉니다.&lt;/code&gt;
-&lt;code class=&quot;language-text&quot;&gt;3. 기출에서 나왔던 개념을 중점적으로 빠르게 읽으면서 필요한 부분은 암기합니다.&lt;/code&gt;
-&lt;code class=&quot;language-text&quot;&gt;4. 다음 과목을 공부하기전에 전날 공부했던 과목의 기출문제를 다시 풀어봅니다.(답을 외웠으면 좀 더 텀을 두고)&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1. 오늘 공부할 과목의 요약본을 꼼꼼히 읽습니다.(암기X)
+2. 2020년도 기출문제를 풉니다.
+3. 기출에서 나왔던 개념을 중점적으로 빠르게 읽으면서 필요한 부분은 암기합니다.
+4. 다음 과목을 공부하기전에 전날 공부했던 과목의 기출문제를 다시 풀어봅니다.(답을 외웠으면 좀 더 텀을 두고)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;장황하게 써놓긴 했는데..별거없죠? 그나마 꿀팁이라면.. 생각보다 1번이 중요했다는거
 1번 없이 2 3 4 를 하면 세세한 부분을 놓치더라고요.
 그래서 처음에 기출모를때 다 중요해보이는걸 이용해서 전체를 꼼꼼히 읽고,
@@ -1864,17 +1858,18 @@ shell을 통해 .env 위치로 들어간 뒤, 가상환경을 활성화 하고
 모의고사 3개쯤 풀어보니까 나오는 개념만 나오는 것 같다는 생각이 들어(문제가 아예 똑같은 것도 있더군요..),
 자기전엔 그 개념들만 후루룩 다시 보고 잠들었습니다.해당 개념들은 이후 작성하는 포스트에 정리해두겠습니다.&lt;/p&gt;
 &lt;h3 id=&quot;팁&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8C%81&quot; aria-label=&quot;팁 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📗팁&lt;/h3&gt;
-&lt;p&gt;👉 세세한 공부가 목적이 아니시라면 &lt;code class=&quot;language-text&quot;&gt;너무 자세하게 외우실 필요 없습니다.&lt;/code&gt;
-시험은 사지선다 객관식이니까요. 그냥 보면 어떤 개념인지 고를 수 있는 정도로만 외우면 됩니다.
-👉  체감상 1,2과목은 헷갈리는 선지들이 조금 나왔습니다.
-하지만 앞서 말씀드렸듯 나오던 개념만 나와서 급하시다면 &lt;code class=&quot;language-text&quot;&gt;기출에 잘 나오는 내용만 암기&lt;/code&gt;해도 될 것 같습니다.
-👉 기출에 나오지 않은 개념들은 외우지않고 그냥 밑줄그으면서 읽기만 해도 충분합니다.(눈에 익히는 정도)
-👉 혹시나 있을 수 있는 과락을 대비하여 &lt;code class=&quot;language-text&quot;&gt;하나정도는 꼼꼼히&lt;/code&gt; 공부해가시면 좋습니다.
-👉 2019년 2차, 3차 풀어봤는데 &lt;code class=&quot;language-text&quot;&gt;3차가 훨씬 도움됐었습니다.&lt;/code&gt; 시간이 남는데 불안하다 싶으면 풀어보시는거 추천드립니다.&lt;/p&gt;
+&lt;p&gt;👉 세세한 공부가 목적이 아니시라면 &lt;code class=&quot;language-text&quot;&gt;너무 자세하게 외우실 필요 없습니다.&lt;/code&gt;&lt;br&gt;
+시험은 사지선다 객관식이니까요. &lt;br&gt;그냥 보면 어떤 개념인지 고를 수 있는 정도로만 외우면 됩니다.&lt;br&gt;
+👉  체감상 1,2과목은 헷갈리는 선지들이 조금 나왔습니다. &lt;br&gt;
+하지만 앞서 말씀드렸듯 나오던 개념만 나와서 급하시다면 &lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;기출에 잘 나오는 내용만 암기&lt;/code&gt;해도 될 것 같습니다.&lt;br&gt;
+👉 기출에 나오지 않은 개념들은 외우지않고 그냥 밑줄그으면서 읽기만 해도 충분합니다.(눈에 익히는 정도)&lt;br&gt;
+👉 혹시나 있을 수 있는 과락을 대비하여 &lt;code class=&quot;language-text&quot;&gt;하나정도는 꼼꼼히&lt;/code&gt; 공부해가시면 좋습니다. &lt;br&gt;
+👉 2019년 2차, 3차 풀어봤는데 &lt;code class=&quot;language-text&quot;&gt;3차가 훨씬 도움됐었습니다.&lt;/code&gt; 시간이 남는데 불안하다 싶으면 풀어보시는거 추천드립니다.&lt;br&gt;&lt;/p&gt;
 &lt;h3 id=&quot;소감&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%86%8C%EA%B0%90&quot; aria-label=&quot;소감 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📙소감&lt;/h3&gt;
 &lt;p&gt;개인적으로 1과목 소프트웨어 설계과목이 제일 힘들었습니다..낯선개념이 많기도 했지만 암기를 잘 못하는지라..
 잘 맞는 분들도 계시겠지만 저랑은 잘 맞는 편이 아니였어서 다시 시간을 돌리면 아마 다른 과목부터 할 것 같습니다..^^ 처음부터 하니까 살짝 텐션이 루즈해지더라구요..자신에게 잘 맞는 부분부터 공부하는걸 추천합니다.
-&lt;img src=&quot;https://pbs.twimg.com/media/CXrhX1mVAAA5Bnw.png&quot; width=&quot;454&quot; height=&quot;260&quot;&gt; 3과목인 데이터베이스 구축과 운영체제+네트워크 개념 나오는 4과목은 재밌게 공부했습니다.
+&lt;img src=&quot;https://pbs.twimg.com/media/CXrhX1mVAAA5Bnw.png&quot; width=&quot;454&quot; height=&quot;260&quot;&gt; &lt;br&gt;3과목인 데이터베이스 구축과 운영체제+네트워크 개념 나오는 4과목은 재밌게 공부했습니다.
 사실 이 두 과목은 개인적으로 그냥 욕심이 좀 나서 시험과 상관없이 열심히 봤던 것 같아요.
 3,4,5과목은 학교에서 데이터베이스, 운영체제, 네트워크, 보안 수업을
 수강한 상태라 덕을 좀 본 것도 있는 듯 하네요. 아무튼 좋은 점수가 나와 만족중입니다.👏👏
@@ -1885,10 +1880,10 @@ shell을 통해 .env 위치로 들어간 뒤, 가상환경을 활성화 하고
 &lt;code class=&quot;language-text&quot;&gt;도저히 모르겠으면 뭔가 자기 혼자 좀 동떨어진듯한 분위기를 풍기는 애를 선택하시면 됩니다.&lt;/code&gt;
 대체적으로 다른 선지들이랑 미묘하게 느낌이 다르거나.. 너무 제한적인 선지들이 정답이었던 경우가 많았네요. &lt;/p&gt;
 &lt;h3 id=&quot;마치며&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A7%88%EC%B9%98%EB%A9%B0&quot; aria-label=&quot;마치며 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;📒마치며&lt;/h3&gt;
-&lt;img src=&quot;https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjRfOTIg/MDAxNTg3NzAyNjk0NTIx.9y_DeVGgSt_gv1Fz3LuDYTOLdL0wOEnQ3Yqr0i4jyxwg.Vk-4cV04SnyhHZ8w1CEghUgHdMlqZXisjOK-ZvW9c6Yg.GIF.dd_809/IMG_0946.GIF?type=w800&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjRfOTIg/MDAxNTg3NzAyNjk0NTIx.9y_DeVGgSt_gv1Fz3LuDYTOLdL0wOEnQ3Yqr0i4jyxwg.Vk-4cV04SnyhHZ8w1CEghUgHdMlqZXisjOK-ZvW9c6Yg.GIF.dd_809/IMG_0946.GIF?type=w800&quot; width=&quot;454&quot; height=&quot;260&quot;&gt;&lt;br&gt;
 필기가 끝나자 마음이 붕 떠서..ㅋㅋ 맘같아선 더러웠고 다신 보지말자! 라고 하고싶지만
-필기를 합격한 이상 실기를 준비해야하는 딱한 인생..이므로 이제부턴 틈틈이 실기를 준비하려합니다. 
-마지막까지 파이팅~!</content:encoded></item><item><title><![CDATA[[Django] 소셜로그인(Social login) 구현하기]]></title><description><![CDATA[🌟Django social login 🎯Social login 소셜로그인이란 네이버, 구글에서 기존에 사용하던 회원정보를 통해 회원가입 및 로그인 할 수 있는 기능입니다. 🎯Django-allauth란? Django-allauth…]]></description><link>https://juhyung990122.github.io/Django/2020-08-11-TIL/</link><guid isPermaLink="false">https://juhyung990122.github.io/Django/2020-08-11-TIL/</guid><pubDate>Tue, 11 Aug 2020 22:44:41 GMT</pubDate><content:encoded>&lt;h2 id=&quot;django-social-login&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#django-social-login&quot; aria-label=&quot;django social login permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌟Django social login&lt;/h2&gt;
+필기를 합격한 이상 실기를 준비해야하는 딱한 인생..이므로 이제부턴 틈틈이 실기를 준비하려합니다.
+마지막까지 파이팅~!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Django] 소셜로그인(Social login) 구현하기]]></title><description><![CDATA[🌟Django social login 🎯Social login 소셜로그인이란 네이버, 구글에서 기존에 사용하던 회원정보를 통해 회원가입 및 로그인 할 수 있는 기능입니다. 🎯Django-allauth란? Django-allauth…]]></description><link>https://juhyung990122.github.io/Django/2020-08-11-TIL/</link><guid isPermaLink="false">https://juhyung990122.github.io/Django/2020-08-11-TIL/</guid><pubDate>Tue, 11 Aug 2020 22:44:41 GMT</pubDate><content:encoded>&lt;h2 id=&quot;django-social-login&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#django-social-login&quot; aria-label=&quot;django social login permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🌟Django social login&lt;/h2&gt;
 &lt;h3 id=&quot;social-login&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#social-login&quot; aria-label=&quot;social login permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯Social login&lt;/h3&gt;
 &lt;p&gt;소셜로그인이란 네이버, 구글에서 기존에 사용하던 회원정보를 통해 회원가입 및 로그인 할 수 있는 기능입니다.&lt;/p&gt;
 &lt;h3 id=&quot;django-allauth란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#django-allauth%EB%9E%80&quot; aria-label=&quot;django allauth란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎯Django-allauth란?&lt;/h3&gt;
